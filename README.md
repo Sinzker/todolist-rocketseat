@@ -1,4 +1,4 @@
-# 🚀 ToDoLit API
+# 🚀 ToDoList API
 
 ![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.11-brightgreen?style=for-the-badge&logo=springboot)
