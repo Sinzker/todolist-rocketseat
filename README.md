@@ -17,6 +17,7 @@ O ecossistema do projeto foi selecionado para garantir performance, segurança e
 *   **Gerenciador de Dependências:** Apache Maven
 *   **Segurança & Autenticação:** Bcrypt
 *   **Banco de Dados:** H2 Database Engine (In-Memory)
+*   **Teste de endpoints:** Postman
 *   **Produtividade:** Lombok (redução de código boilerplate)
 
 ---
